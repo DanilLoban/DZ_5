@@ -27,6 +27,4 @@ for( int i = 0; i < size; i++)
 }
 
 PrintArray( numbers);
-
-// Console.Write(numbers);
 Console.Write(count);
